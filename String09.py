@@ -1,4 +1,4 @@
-def main(x1,x2,x3):
+def main(x1,x2, x3):
     """
     Given three integers, x1, x2, and x3, return the "[x1, x2, x3]" string.
     Args:
@@ -8,4 +8,5 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return 
+    int = f" {x1}, {x2}, {x3} "
+    return int
